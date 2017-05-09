@@ -1,0 +1,21 @@
+#Encabezado
+{
+	background-color: purple
+}
+#Foto
+{
+	width: 50%
+	background-color: orange
+	float: left
+}
+#Informacion
+{
+	width: 50%
+	background-color: pink
+	float: right
+}
+#Contactame
+{
+	width: 100%
+	background-color: green
+}
